@@ -29,7 +29,7 @@ GUI chat application using Tkinter in Python Socket programming
  <p>A client is a software program that allows users to connect to chat servers and communicate with other users via a
   chat
   room.</p>
-  <h3><ins>Screenshot</ins></h3>
+  <h3><ins>Screenshot:</ins></h3>
   <h4>Server</h4>
  <img src="./img/server1.PNG" alt="">
    <h4>Client</h4>
