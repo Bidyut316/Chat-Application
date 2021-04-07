@@ -30,7 +30,7 @@ GUI chat application using Tkinter in Python Socket programming
   chat
   room.</p>
  <img src="./img/server1.PNG" alt="">
- <img src="./img/Client1.PNG" alt="">
+ <img src="./img/Client1.PNG" alt="" height="70">
  <img src="./img/Client2.PNG" alt="">
  <img src="./img/Client3.PNG" alt="">
  <img src="./img/Client4.PNG" alt="">
